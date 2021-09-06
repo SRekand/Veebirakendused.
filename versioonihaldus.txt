@@ -1,0 +1,4 @@
+Selle praktikumi lahendamiseks kasutan järgnevat juhendit: https://www.metshein.com/git-versioonihaldus/
+Eesnimi: Steven Kristjan
+Perenimi: Rekand
+Kursus: VS21
